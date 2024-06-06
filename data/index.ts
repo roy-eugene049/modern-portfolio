@@ -198,13 +198,16 @@ export const socialMedia = [
     {
         id: 1,
         img: "/git.svg",
+        link: "https://github.com/roy-eugene049"
     },
     {
         id: 2,
         img: "/twit.svg",
+        link: "https://x.com/eugenes000"
     },
     {
         id: 3,
         img: "/link.svg",
+        link: "https://www.linkedin.com/in/roy-eugene-2a1a361b4/"
     },
 ];
