@@ -69,11 +69,11 @@ export const gridItems = [
 export const projects = [
     {
         id: 1,
-        title: "3D Solar System Planets to Explore",
-        des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
+        title: "YuvoAi - Web3 Startup Website",
+        des: "Explore the intricacies of Ai coupled with Web3 harnessing magic in the Blockchain realm",
         img: "/p1.svg",
         iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-        link: "/ui.earth.com",
+        link: "https://yuvoai.vercel.app/",
     },
     {
         id: 2,
@@ -81,7 +81,7 @@ export const projects = [
         des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
         img: "/p2.svg",
         iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-        link: "/ui.yoom.com",
+        link: "https://github.com/roy-eugene049",
     },
     {
         id: 3,
@@ -89,7 +89,7 @@ export const projects = [
         des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
         img: "/p3.svg",
         iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-        link: "/ui.aiimg.com",
+        link: "https://github.com/roy-eugene049",
     },
     {
         id: 4,
@@ -97,69 +97,65 @@ export const projects = [
         des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
         img: "/p4.svg",
         iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-        link: "/ui.apple.com",
+        link: "https://titanium-ebon.vercel.app/",
     },
 ];
 export const testimonials = [
     {
-        quote:
-        "Collaborating with Roy was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-        name: "Valentine Abayo",
-        title: "Director of AlphaStream Technologies",
+        quote: "Collaborating with Roy was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+        name: "Dexta Ogada",
+        title: "Director of Dexx Media Labs",
     },
     {
-        quote:
-        "Collaborating with Roy was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-        name: "Kira Kiranova",
-        title: "Director of AlphaStream Technologies",
+        quote: "Roy's expertise and creativity were exactly what we needed. He brought innovative ideas to the table and executed them flawlessly. Adrian's ability to understand our vision and turn it into a reality exceeded our expectations.",
+        name: "Jeff Ubayi",
+        title: "Software Developer",
     },
     {
-        quote:
-        "Collaborating with Roy was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-        name: "Michael Johnson",
-        title: "Director of AlphaStream Technologies",
+        quote: "Working with Roy was a game-changer for our business. His technical skills are top-notch, and his commitment to delivering high-quality work is unmatched. Adrian's passion for his craft is evident in every aspect of his work.",
+        name: "Esther Mwongeli",
+        title: "Frontend Developer",
     },
     {
-        quote:
-        "Collaborating with Roy was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-        name: "Michael Johnson",
-        title: "Director of AlphaStream Technologies",
+        quote: "Roy demonstrated exceptional technical knowledge and project management skills. His attention to detail and ability to meet tight deadlines were crucial to the success of our project. Adrian's dedication and work ethic are truly commendable.",
+        name: "Shadrack Kirui",
+        title: "Head of Digital at YuvoAi",
     },
     {
-        quote:
-        "Collaborating with Roy was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-        name: "Michael Johnson",
-        title: "Director of AlphaStream Technologies",
+        quote: "Roy's work ethic and problem-solving abilities made our collaboration seamless. He tackled complex challenges with ease and delivered results that far exceeded our expectations. Adrian's approach to development is both innovative and practical.",
+        name: "Francis Mwakidoshi",
+        title: "Software Engineer at Safaricom",
     },
 ];
+
 export const companies = [
     {
         id: 1,
-        name: "cloudinary",
+        name: "SWAHILIBOX",
         img: "/cloud.svg",
         nameImg: "/cloudName.svg",
     },
     {
         id: 2,
-        name: "appwrite",
+        name: "TWIICE TECH",
         img: "/app.svg",
         nameImg: "/appName.svg",
     },
     {
         id: 3,
-        name: "HOSTINGER",
+        name: "CP CIM-POOL AG",
         img: "/host.svg",
         nameImg: "/hostName.svg",
     },
     {
         id: 4,
-        name: "stream",
+        name: "PLANET CENTS",
         img: "/s.svg",
         nameImg: "/streamName.svg",
     },
     {
         id: 5,
-        name: "docker.",
+        name: "DEXX MEDIA LABS",
         img: "/dock.svg",
         nameImg: "/dockerName.svg",
     },
