@@ -42,7 +42,7 @@ const Hero = () => {
         />
 
         <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi! I&apos;m Roy, a Next.js Developer based in Kenya.
+            Hi! I&apos;m Roy, a Frontend Developer based in Nairobi, Kenya.
         </p>
 
         <a href="#about">
