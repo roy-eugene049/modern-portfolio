@@ -102,27 +102,27 @@ export const projects = [
 ];
 export const testimonials = [
     {
-        quote: "Collaborating with Roy was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+        quote: "Collaborating with Roy was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Roy's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Roy is the ideal partner.",
         name: "Dexta Ogada",
         title: "Director of Dexx Media Labs",
     },
     {
-        quote: "Roy's expertise and creativity were exactly what we needed. He brought innovative ideas to the table and executed them flawlessly. Adrian's ability to understand our vision and turn it into a reality exceeded our expectations.",
+        quote: "Roy's expertise and creativity were exactly what we needed. He brought innovative ideas to the table and executed them flawlessly. Roy's ability to understand our vision and turn it into a reality exceeded our expectations.",
         name: "Jeff Ubayi",
         title: "Software Developer",
     },
     {
-        quote: "Working with Roy was a game-changer for our business. His technical skills are top-notch, and his commitment to delivering high-quality work is unmatched. Adrian's passion for his craft is evident in every aspect of his work.",
+        quote: "Working with Roy was a game-changer for our business. His technical skills are top-notch, and his commitment to delivering high-quality work is unmatched. Roy's passion for his craft is evident in every aspect of his work.",
         name: "Esther Mwongeli",
         title: "Frontend Developer",
     },
     {
-        quote: "Roy demonstrated exceptional technical knowledge and project management skills. His attention to detail and ability to meet tight deadlines were crucial to the success of our project. Adrian's dedication and work ethic are truly commendable.",
+        quote: "Roy demonstrated exceptional technical knowledge and project management skills. His attention to detail and ability to meet tight deadlines were crucial to the success of our project. Roy's dedication and work ethic are truly commendable.",
         name: "Shadrack Kirui",
         title: "Head of Digital at YuvoAi",
     },
     {
-        quote: "Roy's work ethic and problem-solving abilities made our collaboration seamless. He tackled complex challenges with ease and delivered results that far exceeded our expectations. Adrian's approach to development is both innovative and practical.",
+        quote: "Roy's work ethic and problem-solving abilities made our collaboration seamless. He tackled complex challenges with ease and delivered results that far exceeded our expectations. Roy's approach to development is both innovative and practical.",
         name: "Francis Mwakidoshi",
         title: "Software Engineer at Safaricom",
     },
